@@ -9,9 +9,9 @@ O projeto Robotron2000 é um projeto de aprendizado de JavaScript e manipulaçã
 
 #### Clone o repositório:
 * Abra o terminal (ou prompt de comando) e execute o seguinte comando para clonar o repositório:
-* git@github.com:gabrielestefono/alura-plus.git
+* git@github.com:gabrielestefono/Robotron-2000.git
 #### No terminal, vá para a pasta do projeto clonado:
-~~ cd alura-plus
+~~ cd robotron2000
 #### Abra o arquivo index.html no navegador:
 Localize o arquivo index.html na pasta do projeto e abra-o em seu navegador favorito. Isso pode ser feito simplesmente arrastando o arquivo para uma nova janela do navegador ou abrindo o arquivo através do menu "Arquivo" do navegador.
 
